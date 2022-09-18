@@ -2,6 +2,12 @@
 
 ##
 
+**About me**
+
+I'm a self-taught passionate AWS engineer from Brazil!
+
+- ☁️ Cloud Engineer at [Beonup](https://www.beonup.com.br/)
+
 <div align="center">
   <a href="https://github.com/felipemila">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipemila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,8 +18,7 @@
   <img align="center" alt="FM-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="FM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="FM-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="FM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="FM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 </div>
   
   ##
