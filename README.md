@@ -1,4 +1,4 @@
-<p align="center">Hello there! ✌️</p>
+<b><p align="center">Hello there! ✌️</p></b>
 
 ##
 
@@ -18,7 +18,9 @@ I'm a self-taught passionate AWS engineer from Brazil!
   <img align="center" alt="FM-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="FM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="FM-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
+ 
+  <img align="center" alt="FM-React" height="30" width="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
+  <img align="center" alt="FM-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
   
   ##
