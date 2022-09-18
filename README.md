@@ -6,6 +6,10 @@
 I'm a passionate AWS engineer from Brazil!
 
 - ☁️ Cloud Engineer at [Beonup](https://www.beonup.com.br/)
+- 💻 My AWS certificates here:
+<div><a href = "https://www.linkedin.com/in/felipemila/details/certifications/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a></div>
+
+##
 
 <div align="center">
   <a href="https://github.com/felipemila">
@@ -23,6 +27,8 @@ I'm a passionate AWS engineer from Brazil!
   ##
  
 <div>
-  <a href = "https://www.linkedin.com/in/felipemila/details/certifications/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
-  <a href = "mailto:felpsmilan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipemila" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/felipemila" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:felpsmilan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+  
