@@ -10,12 +10,6 @@ I'm a passionate AWS engineer from Brazil!
 <div><a href = "https://www.linkedin.com/in/felipemila/details/certifications/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a></div>
 
 ##
-
-<div align="center">
-  <a href="https://github.com/felipemila">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=felipemila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemila&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
 <h5 align="left">Languages:</h5>
 <p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
